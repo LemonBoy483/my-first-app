@@ -7,8 +7,8 @@ import Anime from './src/Anime';
 export default function App() {
   return (
     <View>
-      <Text></Text>
-      <Text></Text>
+      <Text>HELLO GIT TEST</Text>
+      <Text>123</Text>
       <Goal />
       <TicTac />
       {/* <Anime /> */}
